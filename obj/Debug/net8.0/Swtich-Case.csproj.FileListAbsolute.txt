@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Swtich-Case\bin\Debug\net8.0\Swtich-Case.exe
+C:\Users\Marco\Desktop\Swtich-Case\bin\Debug\net8.0\Swtich-Case.deps.json
+C:\Users\Marco\Desktop\Swtich-Case\bin\Debug\net8.0\Swtich-Case.runtimeconfig.json
+C:\Users\Marco\Desktop\Swtich-Case\bin\Debug\net8.0\Swtich-Case.dll
+C:\Users\Marco\Desktop\Swtich-Case\bin\Debug\net8.0\Swtich-Case.pdb
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.dll
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\refint\Swtich-Case.dll
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.pdb
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\Swtich-Case.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Swtich-Case\obj\Debug\net8.0\ref\Swtich-Case.dll
